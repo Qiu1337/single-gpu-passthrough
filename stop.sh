@@ -1,3 +1,4 @@
+#!/bin/bash
 set -x
 
 sudo modprobe -r vfio_pci
